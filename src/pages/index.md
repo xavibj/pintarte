@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: PINTARTE PAIPORTA
-image: /img/home-jumbotron.jpg
+image: /img/photo_2020-09-09_13-06-26.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
